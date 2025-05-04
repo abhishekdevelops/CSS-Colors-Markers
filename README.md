@@ -1,18 +1,26 @@
-# 🎨 CSS Colors Markers
+# 🖍️ Learn CSS Colors by Building a Set of Coloured Markers
 
-A simple project showcasing various CSS colors and markers using HTML and CSS.
+A beginner-friendly HTML & CSS project focused on learning and applying **CSS color properties**.  
+Built as part of the **Responsive Web Design Certification** from [freeCodeCamp](https://www.freecodecamp.org/).
 
-## 🚀 Features
-- Displays a range of color markers.
-- Uses **pure CSS** for styling.
-- Simple and lightweight design.
+## 💡 Features
+- Built with pure HTML and CSS
+- Uses named colors, HEX, RGB, and HSL values
+- Demonstrates color combinations and gradients
+- Styled marker-like visual blocks to reinforce color theory
+- Clean and responsive layout
 
-## 🌐 Live Demo
-[View on GitHub Pages](https://abhishekdevelops.github.io/css-colors-markers/)  
+## 📘 Overview
+In this project, you learn how different color formats work in CSS:
+- `color name` (e.g., red, blue)
+- `hex` codes (e.g., `#FF5733`)
+- `rgb()` and `rgba()` values
+- `hsl()` for hue, saturation, and lightness
 
-## 📂 Files Included
-- `index.html` → Main HTML structure.
-- `styles.css` → CSS styles for colors and markers.
+This hands-on exercise helps understand contrast, color mixing, and how to apply them for accessible and vibrant UIs.
 
-## 📜 License
-This project is open-source and free to use.
+## 🔗 View Demo  
+[Live Demo](https://abhishekdevelops.github.io/CSS-Colors-Markers)
+
+## 🏆 Part of FreeCodeCamp Project  
+This project is part of the **Responsive Web Design Certification** by [freeCodeCamp](https://www.freecodecamp.org/).
